@@ -31,5 +31,5 @@ Web final Evaluación 1 Interfaces
 - Todas las imágenes y textos son propias de la empresa y reales (menos la de los picos, que la pedí incontables veces y no se me facilitó una). Se me han enviado imágenes a baja resolución (o incluso en la mayoría de casos se me remite a Facebook a cogerlas, con su compresión y recorte). Por favor, téngase esto en cuenta, que no son imágenes cogidas de Google: que es contenido que he solicitado, buscado, redimensionado, aplicado filtros... pero aún así las imágenes originales no eran de gran calidad. 
 - Esta es una web que literalmente he regalado al cliente, por lo tanto adjunto el enlace de la página publicada, aunque entrego en .rar:
 [Web real publicada](https://sagradocorazonpanaderias.000webhostapp.com/index.html)
--Te llegará una invitación en GitHub al repositorio de este proyecto.
+- Te llegará una invitación en GitHub al repositorio de este proyecto.
 
